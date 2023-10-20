@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi , I'm Antonio Hernández a passionate software student from México<br>📔I'm currently learning web development in django<br>📝You can reach me at hernandezreyesantonio41@gmail.com<br>🖥Currently studying at UACJ<br>
+👋Hi , I'm Antonio Hernández a passionate Software Engineer from México<br>📔Currently focused on web development in django and data analysis with neural networks<br>📝You can reach me at hernandezreyesantonio41@gmail.com<br>
 
 
 ## 🌐 Socials:
