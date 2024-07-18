@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi , I'm Antonio Hernández a passionate Software Engineer from México<br>📔Currently focused on web development in django and data analysis, and predictions with neural networks<br>📝You can reach me at hernandezreyesantonio41@gmail.com<br>
+👋Hi , I'm Antonio Hernández a passionate Software Engineer from México<br>📔Currently focused on web development in django, data analysis and predictions with neural networks<br>📝You can reach me at hernandezreyesantonio41@gmail.com<br>
 
 
 ## 🌐 Socials:
