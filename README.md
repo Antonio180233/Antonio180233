@@ -4,7 +4,7 @@
   <tr>
     <td width="65%" valign="top">
       <h3>👋 ¡Hola! Soy Antonio Hernández</h3>
-      <p><strong>Senior AI Engineer | Full Stack Developer | Technical Team Lead</strong> basado en México.</p>
+      <p><strong>Software Engineer | Full Stack Developer | Technical Team Lead</strong> basado en México.</p>
       <p>Me especializo en el diseño e implementación de <strong>Arquitecturas de Datos complejas, sistemas RAG (Retrieval-Augmented Generation) y orquestación de LLMs</strong>, además de liderar equipos técnicos hacia el desarrollo de soluciones industriales de alto impacto.</p>
       <ul>
         <li>🚀 <strong>Enfoque Actual:</strong> Escalabilidad de arquitecturas de IA, optimización de modelos predictivos (redes neuronales) y transición de herramientas internas hacia ecosistemas web robustos.</li>
