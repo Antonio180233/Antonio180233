@@ -3,15 +3,15 @@
 <table align="center" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>👋 ¡Hola! Soy Antonio Hernández</h3>
-      <p><strong>Software Engineer | Full Stack Developer | Technical Team Lead</strong> basado en México.</p>
-      <p>Me especializo en el diseño e implementación de <strong>Arquitecturas de Datos complejas, sistemas RAG (Retrieval-Augmented Generation) y orquestación de LLMs</strong>, además de liderar equipos técnicos hacia el desarrollo de soluciones industriales de alto impacto.</p>
+      <h3>👋 Hi there! I'm Antonio Hernández</h3>
+      <p><strong>Senior AI Engineer | Full Stack Developer | Technical Team Lead</strong> based in México.</p>
+      <p>I specialize in designing and implementing <strong>Complex Data Architectures, RAG (Retrieval-Augmented Generation) systems, and LLM orchestration</strong>, while leading technical teams to deliver high-impact industrial solutions.</p>
       <ul>
-        <li>🚀 <strong>Enfoque Actual:</strong> Escalabilidad de arquitecturas de IA, optimización de modelos predictivos (redes neuronales) y transición de herramientas internas hacia ecosistemas web robustos.</li>
-        <li>👥 <strong>Liderazgo:</strong> Mentoría activa y gestión de workflows/metas para ingenieros Junior, impulsando su crecimiento en analítica predictiva.</li>
-        <li>🎯 <strong>Filosofía de Desarrollo:</strong> Fiel creyente del software <i>in-house</i> a la medida sobre soluciones de caja negra comerciales.</li>
+        <li>🚀 <strong>Current Focus:</strong> Scaling AI architectures, optimizing predictive models (neural networks), and transitioning in-house tools into robust web ecosystems.</li>
+        <li>👥 <strong>Leadership:</strong> Actively mentoring junior engineers, managing workflows, and setting strategic goals to drive growth in predictive analytics.</li>
+        <li>🎯 <strong>Development Philosophy:</strong> A strong advocate for custom, tailored <i>in-house</i> software over rigid, black-box commercial solutions.</li>
       </ul>
-      <p>📬 <strong>Contacto directo:</strong> <a href="mailto:hernandezreyesantonio41@gmail.com">hernandezreyesantonio41@gmail.com</a></p>
+      <p>📬 <strong>Get in touch:</strong> <a href="mailto:hernandezreyesantonio41@gmail.com">hernandezreyesantonio41@gmail.com</a></p>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio180233&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 Conecta Conmigo
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/antonio_hernandez_1789" target="_blank">
@@ -34,7 +34,7 @@
 
 ---
 
-## 💻 Tech Stack & Certificaciones
+## 💻 Tech Stack & Credentials
 
 ### 🤖 Artificial Intelligence & Data Science
 <p align="left">
@@ -66,13 +66,13 @@
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </p>
 
-> 🎓 **Especialidades y Credenciales:**  
+> 🎓 **Specialties & Certifications:**  
 > Azure AI Engineer Associate | Generative AI Specialist | Six Sigma Yellow Belt  
-> Enfocado en la arquitectura de soluciones robustas bajo metodologías ágiles y de mejora continua.
+> Focused on architecting robust solutions using agile methodologies and continuous improvement frameworks.
 
 ---
 
-## 📊 GitHub Stats & Actividad
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio180233&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
